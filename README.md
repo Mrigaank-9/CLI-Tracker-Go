@@ -2,7 +2,7 @@
 
 A simple command-line tool to manage your daily tasks using Go.
 You can add, update, delete, and list tasks directly from your terminal.
-Project URL - https://roadmap.sh/projects/task-tracker
+project page URL - https://roadmap.sh/projects/task-tracker
 
 ---
 
